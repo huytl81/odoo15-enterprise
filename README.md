@@ -1,1 +1,1 @@
-# odoo15
+# odoo-config
